@@ -137,7 +137,7 @@ public:
 	EOpMode OpMode();
 	void OpMode(EOpMode mode);
 
-	// Configures the LMP910000 IC based on a provided configuration
+	// Configures the LMP91000 IC based on a provided configuration
 	void Configure(Configuration config);
 	
 private:

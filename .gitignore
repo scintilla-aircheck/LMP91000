@@ -30,3 +30,12 @@
 
 # Visual Studio Code
 .vscode/
+
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Visual Micro
+__vm/
